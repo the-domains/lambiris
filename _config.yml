@@ -1,0 +1,28 @@
+name: Lambiris
+favicon: null
+layout_spectrum: 0.5450217626057565
+typography_spectrum: 0.2501069027930498
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3537359037436545
+  lightness: 0.7642887586262077
+  saturation: 0.827745552174747
+  rhythmicContrast: 0.5706314812414348
+purpose: []
